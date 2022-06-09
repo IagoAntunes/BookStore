@@ -22,7 +22,7 @@ namespace BookStoreWeb.Controllers
         {
             return View();
         }
-        //Post
+        //PostT
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Create(Category obj)
