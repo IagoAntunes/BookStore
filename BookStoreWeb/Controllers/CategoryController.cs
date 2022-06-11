@@ -39,7 +39,7 @@ namespace BookStoreWeb.Controllers
             }
             return View(obj);
         }
-        //GetT
+        //Get Edit
         public IActionResult Edit(int? id)
         {
             if(id== null || id == 0)
@@ -57,7 +57,7 @@ namespace BookStoreWeb.Controllers
 
             return View(categoryFromDb);
         }
-        //POST
+        //Post Edit
         [HttpPost]
         [ValidateAntiForgeryToken]
         public IActionResult Edit(Category obj)
@@ -68,7 +68,7 @@ namespace BookStoreWeb.Controllers
             }
             if (ModelState.IsValid)
             {
-                _db.Categories.Add(obj);
+                _db.Categories.Update(obj);
                 _db.SaveChanges();
                 return RedirectToAction("Index");
             }
