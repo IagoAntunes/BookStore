@@ -23,9 +23,6 @@ Neste projeto foi usado os principais conceitos da ASP .NET Core MVC para a cria
 - [X] Editar Livro da Lista
 - [X] Remover Livro da Lista
 
-## 🎨 Layout
-
-O layout da aplicação está disponível no Figma:
 
 ## 🛠 Tecnologias
 
@@ -39,6 +36,11 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[VisualStudio](https://visualstudio.microsoft.com/pt-br/downloads/)**
 -   **[Git](https://git-scm.com/)**
 
+## 🎨 Layout
+<img src="https://imgur.com/UYPTgm9.png" min-width="400px" max-width="800px" width="800px" align="center" alt="ImagemListaLivro">
+<img src="https://imgur.com/GwKKqkd.png" min-width="400px" max-width="800px" width="800px" align="center" alt="ImagemCriarLivro">
+<img src="https://imgur.com/evrQDJ4.png" min-width="400px" max-width="800px" width="800px" align="center" alt="ImgemEditarLivro">
+<img src="https://imgur.com/ByzKEWU.png" min-width="400px" max-width="800px" width="800px" align="center" alt="ImagemDeletarLivro">
 ---
 ## 🦸 Autor
 
