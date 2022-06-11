@@ -1,4 +1,4 @@
-<h1>BookStore</h1>
+<h1 align="center">:book: BookStore</h1>
 
 <p align="center">
  <a href="#-sobre-o-projeto">Sobre</a> •
@@ -12,19 +12,16 @@
 
 ## 💻 Sobre o projeto
 
-♻️ Pokedex - É um projeto com objetivo de me desafiar e testar minhas habilidades em desenvolvimento mobile. Template e design foram retirados do [DevChallenge](https://devchallenge.vercel.app/).
+Neste projeto foi usado os principais conceitos da ASP .NET Core MVC para a criação de um <strong>Site de Livros</strong>.Foi possivel usar diversos conceitos do desenvolvimento Web usando a tecnologia ASP .NET Core MVC e o Entity Framework Core.
 
-
-[DevChallenge](https://devchallenge.vercel.app/) é uma comunidade que disponibiliza desafios em sua plataforma web.
 
 ---
 
 ## ⚙️ Funcionalidades
-
+- [X] Visualizar Livros
 - [X] Adicionar Livro a Lista
 - [X] Editar Livro da Lista
 - [X] Remover Livro da Lista
----
 
 ## 🎨 Layout
 
@@ -38,6 +35,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[HTML\CSS](https://react-icons.github.io/react-icons/)**
 -   **[Bootstrap](https://getbootstrap.com/)**
 -   **[JavaScript](https://www.javascript.com/)**
+-   **[SQLServer](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads)**
 -   **[VisualStudio](https://visualstudio.microsoft.com/pt-br/downloads/)**
 -   **[Git](https://git-scm.com/)**
 
