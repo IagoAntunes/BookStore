@@ -41,6 +41,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <img src="https://imgur.com/GwKKqkd.png" min-width="400px" max-width="800px" width="800px" align="center" alt="ImagemCriarLivro">
 <img src="https://imgur.com/evrQDJ4.png" min-width="400px" max-width="800px" width="800px" align="center" alt="ImgemEditarLivro">
 <img src="https://imgur.com/ByzKEWU.png" min-width="400px" max-width="800px" width="800px" align="center" alt="ImagemDeletarLivro">
+
 ---
 ## 🦸 Autor
 
